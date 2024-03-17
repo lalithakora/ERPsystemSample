@@ -1,4 +1,4 @@
-# ZomatoV2
+# ERPSample
 
 eCommerce Application in Angular
 
